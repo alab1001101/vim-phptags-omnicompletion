@@ -1,0 +1,6 @@
+This is in a very rough state of development, at the moment
+these scripts are specialized for Zend Framework, and only
+collect tags into a sqlite3 database file.
+
+The idea is to write a vim omnicompletion script, which gets
+information from this sqlite3 file.
